@@ -2,7 +2,7 @@
 
 
 1) Charger les libraries nécessaires dans l'environnement:
-**pipenv install -r requirements**
+**pipenv install -r requirements.txt --skip-lock**
 
 
 2) Lancer l'application web:

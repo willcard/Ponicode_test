@@ -1,0 +1,5 @@
+function lerp(start, end, percentage) {
+ return start + (end - start) * percentage;
+}
+
+// expected: number,number,number
